@@ -13,3 +13,10 @@ Human Faces Dataset: Sourced from Kaggle, featuring diverse human face images un
 - Autoencoder1: Moderate reconstruction loss, capturing basic features but lacking fine details.
 - Autoencoder2: Lower reconstruction loss with better detail and structural coherence.
 - UNet: Achieved the lowest reconstruction loss, offering the most detailed and visually appealing inpainted images.
+
+## Project Files
+- main.ipynb: The main Jupyter notebook that contains the implementation of the training and testing processes for all three models. It includes data loading, preprocessing, model training, evaluation, and visualization of results.
+- model1.py: Python script defining the Autoencoder1 architecture.
+- model2.py: Python script defining the Autoencoder2 architecture.
+- model3.py: Python script defining the UNet architecture.
+- dataset.py: Python script defining the CustomDataset class, which handles loading and preprocessing of the Human Faces dataset.
