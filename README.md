@@ -1,7 +1,7 @@
-# Image Inpainting with Deep Learning
+# Image Inpainting with Deep Learning(PyTorch)
 This project explores three architectures for image inpainting, a challenging problem in computer vision aimed at reconstructing missing or deteriorated parts of an image. Our method, inspired by Context Encoders, leverages unsupervised visual feature learning by predicting pixel context to reconstruct missing regions.
 
-## Architectures
+## Architectures  
 - Autoencoder1: A basic convolutional autoencoder with an encoder-decoder structure for fundamental inpainting tasks.
 - Autoencoder2: An enhanced autoencoder with additional layers and depth for capturing more complex features.
 - UNet: A sophisticated architecture with symmetrical encoder-decoder pathways and skip connections for detailed and precise inpainting.
