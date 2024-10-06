@@ -1,4 +1,4 @@
-# Image Inpainting with Deep Learning(PyTorch)
+# Image Inpainting with Deep Learning(PyTorch)  3 methods
 This project explores three architectures for image inpainting, a challenging problem in computer vision aimed at reconstructing missing or deteriorated parts of an image. Our method, inspired by Context Encoders, leverages unsupervised visual feature learning by predicting pixel context to reconstruct missing regions.
 
 ## Architectures  
